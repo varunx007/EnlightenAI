@@ -13,8 +13,8 @@ const SlideTwo = () => {
 
 
                     <p className="text-black mb-2 mt-2 max-md:text-center max-md:text-xs dark:text-white">
-                        Craft compelling courses effortlessly with our platform, enabling you to create engaging content on any topic.
-                        Seamlessly integrate video and theory lectures for a comprehensive learning experience, fostering effective education in just a few clicks
+                        Effortlessly personalize your learning with our platform, enabling you to access engaging content on any topic.
+                        Seamlessly combine videos and informative content for a comprehensive learning experience, empowering effective education in just a few clicks.
                     </p>
 
 
@@ -31,8 +31,8 @@ const SlideTwo = () => {
                             <div className='max-md:flex max-md:justify-center max-md:items-center'>
                                 <PiFeatherFill className='text-2xl max-md:text-xl dark:text-white' />
                             </div>
-                            <h3 className="text-xl font-bold mb-2 max-md:text-xl dark:text-white">Create Course</h3>
-                            <p className='text-black max-md:text-xs dark:text-white'>Create Course on Any Topic</p>
+                            <h3 className="text-xl font-bold mb-2 max-md:text-xl dark:text-white">Learn with AI</h3>
+                            <p className='text-black max-md:text-xs dark:text-white'>Learn Any Topic with AI</p>
                         </div>
                     </div>
                 </div>
