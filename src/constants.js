@@ -1,8 +1,8 @@
 //BRAND
 export const name = 'AdeptLearn';
 export const company = 'AdeptLearn';
-export const websiteURL = 'http://localhost:3000';
-export const serverURL = 'http://localhost:5000';
+export const websiteURL = 'https://course.vertexai.io';
+export const serverURL = 'https://enlightenai.onrender.com';
 export const logo = 'https://firebasestorage.googleapis.com/v0/b/enlightenai.appspot.com/o/EnlightenAI%20logo.png?alt=media&token=79f4df7d-6883-4e26-b257-0bc598984f81';
 export const razorpayEnabled = true;
 export const paypalEnabled = true;
