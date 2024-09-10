@@ -12,8 +12,8 @@ const SlideThree = () => {
               
                 <div className="flex flex-col items-center justify-center lg:w-1/3 pt-6">
                     <PiKeyboard className="text-4xl max-md:text-3xl dark:text-white" />
-                    <div className="text-2xl max-md:text-lg pt-4 font-bold  dark:text-white">Enter Course Title</div>
-                    <div className="text-lg max-md:text-xs text-center px-3 pt-2 font-medium  dark:text-white"  >Enter the course title for which you want to generate content using AI</div>
+                    <div className="text-2xl max-md:text-lg pt-4 font-bold  dark:text-white">Enter Learning Topic</div>
+                    <div className="text-lg max-md:text-xs text-center px-3 pt-2 font-medium  dark:text-white"  >Enter the learning topic for which you want to generate content using AI</div>
                 </div>
 
          
@@ -26,8 +26,8 @@ const SlideThree = () => {
                
                 <div className="flex flex-col items-center justify-center lg:w-1/3 pt-6">
                     <PiVideo   className="text-4xl max-md:text-3xl  dark:text-white" />
-                    <div className="text-2xl max-md:text-lg pt-4 font-bold  dark:text-white">Video & Theory Course</div>
-                    <div className="text-lg max-md:text-xs text-center px-3 pt-2 font-medium  dark:text-white" >AI will generate video and theory course allowing you to start learning</div>
+                    <div className="text-2xl max-md:text-lg pt-4 font-bold  dark:text-white">Video & Learning Content</div>
+                    <div className="text-lg max-md:text-xs text-center px-3 pt-2 font-medium  dark:text-white" >AI will generate videos and learning content, allowing you to start learning instantly.</div>
                 </div>
             </div>
         </div>
